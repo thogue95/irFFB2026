@@ -1,7 +1,15 @@
-# irFFB
+# irFFB2022 / irFFB2026
 
-irFFB can feed the 360 Hz steering column torque data recently made available in iRacing telemetry to your wheel, upsample and apply low-latency digital filters to the standard (60 Hz) iRacing FFB output and modify the feedback via a number of effects based on live telemetry.
+Enhanced Force Feedback for iRacing – a major rewrite and evolution of the original irFFB.
 
-It can also drive a 'Jetseat' and fans if you have them.
+### Original Upstream
+Built upon and conceptually forked from the original work by **nlp80**  
+Original repository: https://github.com/nlp80/irFFB  
+(Added as remote 'upstream' in this repo for history and reference)
 
-There's more detail in the wiki..
+All foundational credit goes to nlp80 and early contributors.  
+This project diverged significantly starting with irFFB2022 and has been fully rewritten in irFFB2026 with Pacejka Magic Formula SAT + vertical effects, low-latency Game modes, Auto Tune, SimHub integration, and more.
+
+Jetseat, fans, and HiGuardian have been removed.
+
+Licensed under **GNU General Public License v3** — same as the original. See [LICENSE](LICENSE) for full details.

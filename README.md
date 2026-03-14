@@ -1,4 +1,4 @@
-# irFFB2022 / irFFB2026
+#irFFB2026
 
 Enhanced Force Feedback for iRacing – a major rewrite and evolution of the original irFFB.
 

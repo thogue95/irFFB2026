@@ -33,6 +33,8 @@ The debug() function is still in place but the UI checkbox is disabled.  Renable
 Users were filling up hard drives leaving the debug on all the time and slowing down run time.
 */ 
 
+
+//This is a git test
 //
 
 #include "irFFB2026.h"

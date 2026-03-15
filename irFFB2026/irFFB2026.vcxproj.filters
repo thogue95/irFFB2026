@@ -75,5 +75,8 @@
     <Image Include="irFFB2026.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\..\..\irFFB2023-v1\irFFB2023\irFFB2023\irFFB2022.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

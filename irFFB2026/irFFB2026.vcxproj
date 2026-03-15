@@ -202,6 +202,7 @@
     <ClInclude Include="yaml_parser.h" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\irFFB2023-v1\irFFB2023\irFFB2023\irFFB2022.ico" />
     <Image Include="irFFB2026.ico" />
     <Image Include="small.ico" />
   </ItemGroup>

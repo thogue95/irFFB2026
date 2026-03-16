@@ -33,4 +33,4 @@ Key aspects of the implementation:
 - **Impact force reduction** — Attenuates FFB during high-G spikes
 - **Simplified UI** — Easier setup, quick tips, per-car/track settings saved automatically
 - **Reliability improvements** — Robust DirectInput reacquire, lower CPU usage, no vJoy required in irFFB modes
-- **Added ADA Feature** — Doubled the range of Max Force for those needing lower force while keeping effects
+

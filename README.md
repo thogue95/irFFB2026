@@ -1,3 +1,5 @@
+!!!Important:  Keep checking back as I have been getting great feedback and will making updates to the code.
+
 # irFFB2026
 
 **Enhanced Force Feedback for iRacing**  
